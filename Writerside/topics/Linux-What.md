@@ -1,4 +1,7 @@
-# Linux What?
+# Stuff I think you should know
+
+
+## Why and what is Linux?
 
 I think the most important question you should ask yourself is why you are looking into Linux? What do you think
 Linux will give you other Operating Systems won't give you?
@@ -10,19 +13,22 @@ I bet you will have a hard time coming up with reasons other than:
 - Uh, it's cool?
 - OPEN SOURCE ALL THINGS!
 
-And you might be right about most of those reasons.
+But just open source and free should not be the reasons to dive into Linux. Linux _can_ give you more freedom to
+really own your computer.
+It can help you create a custom workflow for your day-to-day stuff.
+And, it does so, without any lock-in to any ecosystem out there such as Apple/ Microsoft proprietary devices and
+software.
+With all that, you will als be part of a flourishing community that is highly opinionated (
+née <tooltip term="passionate">passionate</tooltip> 🤮).
 
-Well, first of all, Linux is **not** what you are looking for. With just Linux, you will get nowhere. I know, I know
-this is pretty much inaccurate. But it also isn't a lie.
+## What makes Linux different from X
 
-You see, Linux is part of smaller blocks (like Lego) that will make an entire Operating System. And that is where
-Linux is completely different to MacOs or Windows.
+Linux is part of smaller blocks (like Lego) that will make an entire Operating System, Linux itself is _just_ the
+kernel. This makes understanding Linux quite different from understanding Windows or macOS. I believe that, before you
+start your adventure, that you understand the difference.
 
-And it is actually **really important** to understand that this is fundamentally different which can make learning
-about Linux even harder.
-
-With Windows/macOS you will get a full desktop experience right out of the gates. Everything is pre-configured for
-you so that you can start straight away doing whatever you want.
+With Windows/ macOS, you will get a full desktop experience right out of the gates.
+Everything is pre-configured for you so that you can start straight away doing whatever you want.
 
 Let's stop and think about that for a second. When you buy a laptop, it contains many components such as (but not
 limited to:
@@ -79,7 +85,7 @@ you, and you'll have no choices in either of them. And for about 99.9% of the pe
 
 But don't worry in later chapters you will find the magic of distributions (distros).
 
-## So why choose Linux if Windows and macOs are complete?
+## So why choose Linux if Windows and macOS are complete?
 
 This is a question I cannot answer for you! For me, using Linux means I can use my laptop or desktop PC exactly how
 I want it. For me personally, it is definitely not **just about open source**. I see this mentioned so many times,
@@ -104,23 +110,49 @@ tried, some parts of Windows are still stuck in the past, while other parts incr
 only that, but the amount of tracking and advertisements are getting out of hand.
 
 And I suppose that's what bothers me. Microsoft is implementing so many tracking and adverts. macOS dumbing down on
-everything along with so many paid applications for such simple tasks.  But I'll put aside my grievances
+everything along with so many paid applications for such simple tasks. But I'll put aside my grievances
 about these things for now. This is not the place.
 
 In the end, it's all about the question; What do you want out of an operating system?
 
 ## Linux can be frustrating
 
-Yes, there I said it. Linux can and will be frustrating when you first start to look into it. Consider what I wrote 
-earlier. Linux in its core (the kernel) has supports for tons of components, but not all of them. All the support, 
-or at least most of the support hangs in the balance of all those contributors making sure things 'just work'. 
+Yes, there I said it. Linux can and will be frustrating when you first start to look into it. Consider what I wrote
+earlier. Linux in its core (the kernel) has supports for tons of components, but not all of them. All the support,
+or at least most of the support hangs in the balance of all those contributors making sure things 'just work.'
 
-Consider that you start as an audio card manufacturer, would you spend time and money on writing support for Linux if 
-you know Windows and macOS are far more popular and in use at the moment? The answer in most cases is no. It's a 
+Say that you start as an audio card manufacturer, would you spend time and money on writing support for Linux if
+you know Windows and macOS are far more popular and in use at the moment? The answer in most cases is no. It's a
 shame but also the cold hard truth.
 
-And yes, thankfully, the support for linux is increasing each year. Popularity is rising, thank you Steamdeck. But 
-still, the user experience you will get is solely based on those thousands of contributors, who, mind you, don't have 
+And yes, thankfully, the support for linux is increasing each year. Popularity is rising, thank you Steamdeck. But
+still, the user experience you will get is solely based on those thousands of contributors, who, mind you, don't have
 all the components to work with.
 
-Consider what Linus Torvalds wrote when he brought out the first version of Linux
+Consider what Linus Torvalds wrote when he brought out the first version of Linux:
+
+![Linus Torvalds first message about Linux](linus-torvald-first-linux-email.png)
+
+Specifically:
+
+> and it probably never will support anything other than AT-harddisks, as that's all I have :-(.
+> {style="note"}
+
+Understand that contributors, only have hardware they actually own!
+
+And it's crucial that you understand this! Support is mostly given through peoples' time and effort for stuff
+they own, know, etc.
+
+Your complete experience with Linux as a desktop is in the hands of those who spent their time on the system as a
+whole. 
+
+This includes:
+
+- Driver support
+- Desktop environments
+- Boot/Startup systems
+- Initialization processes
+- etc etc
+
+And with a massive ton of hardware vendors and software out there, it is almost an impossible task to give you
+100% perfection.

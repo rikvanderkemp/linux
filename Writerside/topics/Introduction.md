@@ -1,6 +1,8 @@
-# GNU/Linux - my take
+# Introduction
 
-## Introduction
+<warning>This is, and always will be a draft of my experience with Linux</warning>
+
+<warning>If you have (advanced) experience with Linux, this might not be for you</warning>
 
 So this has been a long time coming. As a GNU/Linux user/ fan, I never knew how I could contribute or help new 
 people get into GNU/Linux. Let's be clear, a lot of the information here you can find in other tutorials and places 

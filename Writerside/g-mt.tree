@@ -4,8 +4,9 @@
 
 <instance-profile id="g-mt"
                  name="GNU/Linux - my take"
-                 start-page="Default-topic.md">
+                 start-page="Introduction.md">
 
-    <toc-element topic="Default-topic.md"/>
+    <toc-element topic="Introduction.md"/>
     <toc-element topic="Linux-What.md"/>
+    <toc-element topic="Getting-started.md"/>
 </instance-profile>
