@@ -1,8 +1,6 @@
-# Getting started
+# Choosing your hardware
 
-## Choosing your hardware
-
-<warning>As you will read a lot on the web, the most safe way to understand Linux and without loosing data is 
+<warning>As you will read a lot on the web, the safest way to understand Linux and without loosing data is 
 by using a Virtual Machine. I do recommend this as well. But I don't want this to be a Virtual Machine 
 tutorial.</warning>
 
@@ -19,7 +17,7 @@ In the previous ramblings I've discussed why Linux is different from other opera
 
 Now that you know, I can give you some tips to get started quickly without to many issues.
 
-### Laptops
+## Laptops
 
 Some safe criteria to choose the right laptop;
 
@@ -41,7 +39,7 @@ Here's a short list of what you might look for:
 <td>Intel or AMD. Find something in the mid-range of these</td>
 </tr>
 <tr>
-<th>Wi-Fi</th>
+<th>Wi-Fi / Bluetooth</th>
 <td>Intel AX200 (or Pro)</td>
 </tr>
 <tr>
@@ -50,6 +48,21 @@ Here's a short list of what you might look for:
 </tr>
 </table>
 
-#### A word on graphics {id="graphics"}
+Not very surprising, is it?
+Know that your CPU will most always just work.
+You might run into Wi-Fi issues, so 
+instead of making it difficult for yourself, get something that is supported or replace before you begin.
+Most laptops from known vendors allow you to replace the Wi-Fi adapter.
 
-#### A word on Laptop audio (speakers)
+### A word on graphics {id="graphics"}
+
+Yes, NVIDIA is actually OK, it is, however, a very controversial take of mine.
+And it is very nuanced.
+I have had my 
+share of issues with NVIDIA in the past.
+And there are many issues with many pieces of (Desktop managers or tiling window managers) software (usually just plain 
+unsupported).
+But I think if you stick to the proprietary drivers of NVIDIA, you'll be fine, actually.
+And (should be boring by now), if you stick with a little bit older hardware, your success rate goes up. 
+
+### A word on Laptop audio (speakers) {id="speakers"}
