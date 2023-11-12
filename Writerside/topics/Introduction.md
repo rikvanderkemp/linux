@@ -20,6 +20,6 @@ about GNU/Linux. Before you start diving into my brain fart here, please know:
 If you enjoy this document and wish to support me, you can always:
 
 <a href="https://www.buymeacoffee.com/rvdk" target="_blank">
-<img src="buy-me-a-coffee.png" height="60"  width="217" alt="By me a coffee"/>
+<img src="buy-me-a-coffee.png" height="32"  alt="By me a coffee"/>
 </a>
 
