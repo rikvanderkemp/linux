@@ -14,8 +14,8 @@
         <toc-element topic="So-why-choose-Linux.md"/>
         <toc-element topic="Linux-can-be-frustrating.md"/>
     </toc-element>
-    <toc-element topic="Knowledge-base.md">
-    </toc-element>
     <toc-element topic="Getting-started.md"/>
-    <toc-element topic="OpenSuse-Tumbleweed.md"/>
+    <toc-element topic="Knowledge-base.md">
+        <toc-element topic="OpenSuse-Tumbleweed.md"/>
+    </toc-element>
 </instance-profile>
