@@ -6,7 +6,9 @@
                  name="GNU/Linux - my take"
                  start-page="Introduction.md">
 
-    <toc-element topic="Introduction.md"/>
+    <toc-element topic="Introduction.md">
+        <toc-element topic="Contributing-and-feedback.md"/>
+    </toc-element>
     <toc-element topic="Theory.md">
         <toc-element topic="What-makes-Linux-different-from-X.md"/>
         <toc-element topic="So-why-choose-Linux.md"/>
