@@ -7,10 +7,17 @@
         <algolia-index>linux</algolia-index>
         <algolia-api-key>dd478bab97f7873c8f752eba0521f1cb</algolia-api-key>
         <web-root>https://some.domain</web-root>
+        <primary-color>iris</primary-color>
+        <header-logo>Tux_Mono.svg</header-logo>
     </variables>
     <build-profile instance="hi">
         <variables>
             <noindex-content>true</noindex-content>
+        </variables>
+    </build-profile>
+    <build-profile instance="g-mt">
+        <variables>
+            <noindex-content>false</noindex-content>
         </variables>
     </build-profile>
     <build-profile instance="lfab">
@@ -19,4 +26,8 @@
         </variables>
     </build-profile>
 
+    <footer>
+        <link href="https://github.com/rikvanderkemp/linux">Github</link>
+        <copyright>Rik van der Kemp</copyright>
+    </footer>
 </buildprofiles>
